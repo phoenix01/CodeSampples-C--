@@ -19,7 +19,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-//using namespace std;                      // gives compiler warning
+using namespace std;                      // gives compiler warning
 
 /* START Type, Class, and Function Definitions */
 
